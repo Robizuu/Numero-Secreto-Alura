@@ -32,7 +32,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial() {
-    exibirTextoNaTela('h1', 'Jogo do Número Secreto');
+    exibirTextoNaTela('h1', 'Jogo do Número Secreto: O Filme');
     exibirTextoNaTela('p', 'Escolha um número entre 1 e 40');
 }
 
